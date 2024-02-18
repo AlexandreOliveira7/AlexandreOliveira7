@@ -1,4 +1,9 @@
-### Olá! Eu sou o Alexandre Oliveira 🫡
+## Olá! Eu sou o Alexandre Oliveira 🫡
+
+## Sobre mim :
+  Olá! Sou um entusiasta da tecnologia apaixonado por aprender e crescer na área. Desde jovem, fui fascinado pela forma como a tecnologia pode transformar o mundo ao nosso redor. Busco constantemente aprimorar minhas habilidades e conhecimentos, sempre em busca da         excelência. Meu objetivo é contribuir de forma significativa para o avanço da tecnologia e me tornar um profissional exemplar nesta área em constante evolução.
+
+## Social:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xandeflores_/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XandeOliveira7_)
@@ -19,7 +24,7 @@
   </tr>
 </table>
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu dia 💻
 
 <div style="display: inline_block"> <br/>
    <img align="center"alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
