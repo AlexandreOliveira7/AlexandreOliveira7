@@ -7,12 +7,15 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=AlexandreOliveira7&theme=react&hide_border=true&include_all_commits=true&count)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreOliveira7&theme=react&hide_border=true)<br/>
 
-
-
-
+<div>
+   <p style="display: inline-block; width: 50%;">
+     <img src="https://github-readme-stats.vercel.app/api?username=AlexandreOliveira7&theme=react&hide_border=true&include_all_commits=true&count" alt="GitHub Stats" style="width: 100%;" />
+   </p>
+   <p style="display: inline-block; width: 50%;">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreOliveira7&theme=react&hide_border=true" alt="GitHub Streak" style="width: 100%;" />
+   </p>  
+</div>
 
 ## Tecnologias que uso no meu dia
 
