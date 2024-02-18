@@ -7,8 +7,12 @@
 
 
 
+![](https://github-readme-stats.vercel.app/api?username=AlexandreOliveira7&theme=react&hide_border=true&include_all_commits=true&count)
+![Alexandre GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreOliveira7&theme=react&hide_border=true)<br/>
 
-![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandreoliveira7&show_icons=true&theme=radical)
+
+
+
 
 ## Tecnologias que uso no meu dia
 
