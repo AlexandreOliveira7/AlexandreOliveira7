@@ -3,6 +3,9 @@
 ## Sobre mim :
   Olá, Sou desenvolvedor de software com grande entusiasmo por tecnologia e inovação. Tenho como propósito aprimorar continuamente minhas habilidades técnicas e contribuir para o desenvolvimento de soluções que gerem impacto real. Acredito no poder da tecnologia para transformar experiências, otimizar processos e impulsionar resultados. Busco sempre evoluir profissionalmente, unindo aprendizado constante, boas práticas de desenvolvimento e foco em excelência.
 
+  Atualmente, trabalho na DGTAX, atuando com Big Data e produtos relacionados ao SPED, além de contribuir com o Yeap Delivery, uma plataforma voltada para cidades menores que moderniza o processo de pedidos de alimentação.
+  
+
 <table>
   <tr>
     <td>
